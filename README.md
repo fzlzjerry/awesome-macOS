@@ -326,6 +326,7 @@
 - [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. [![Open-Source Software][OSS Icon]](https://github.com/scrod/nv/) ![Freeware][Freeware Icon]
 - [Noti](https://noti.center/) - Receive Android notifications on your mac (with PushBullet). [![Open-Source Software][OSS Icon]](https://github.com/jariz/Noti/) ![Freeware][Freeware Icon]
 - [Numi](http://numi.io/) - Beautiful calculator app. ![Freeware][Freeware Icon]
+- [OhMyShot](https://www.ohmyshot.org/) - Native menu bar tool for screenshots, scrolling capture, annotation, pinning, screen recording, and on-device OCR. [![Open-Source Software][OSS Icon]](https://github.com/MMFoundation/OhMyShot) ![Freeware][Freeware Icon]
 - [OnyX](http://www.titanium.free.fr/) -  Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more. ![Freeware][Freeware Icon]
 - [Paparazzi](http://derailer.org/paparazzi/) - A small utility that makes screenshots of webpages. ![Freeware][Freeware Icon]
 - [Paragon NTFS](http://www.paragon-drivers.com/ntfs-mac/) - World fastest NTFS driver.
